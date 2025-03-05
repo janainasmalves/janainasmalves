@@ -1,4 +1,4 @@
-# 💻 Janaína Alves - Desenvolvedora Web
+# 💻 Janaína Alves - Desenvolvedora Web e Analista de Sistemas
 
 Bem-vindo ao meu repositório! Sou **Janaína Alves**, desenvolvedora web apaixonada por tecnologia, aprendizado contínuo e soluções inovadoras.
 
