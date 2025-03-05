@@ -17,20 +17,20 @@ Bem-vindo ao meu repositório! Sou **Janaína Alves**, desenvolvedora web apaixo
 
 ## 📌 Projetos em Destaque
 
-🔹 **[Número Secreto - Jogo Interativo](https://github.com/seu-usuario/numero-secreto)**
+🔹 **[Número Secreto - Jogo Interativo](https://github.com/seu-usuario/numero-secreto)**  
 > Jogo interativo para treinar lógica de programação com HTML, CSS e JavaScript.
 
 ## 📚 Formação e Estudos
 
-🎓 **Graduanda em Análise e Desenvolvimento de Sistemas*
-📖 Curso em andamento: **Programação G8 - ONE da Alura em conjunto com a Oracle Next Education.**
+🎓 **Graduanda em Análise e Desenvolvimento de Sistemas**  
+📖 Curso em andamento: **Programação G8 - ONE da Alura em conjunto com a Oracle Next Education.**  
 📖 Estudando: **ERP, Desenvolvimento Web e MySQL**
 
 ## 📫 Contato
 
-📩 **Email:** janainasmalves@gmail.com
-🔗 **LinkedIn:** [https://www.linkedin.com/in/janainasmalves)
-📷 **Instagram:** [@janie.martins.1](https://www.instagram.com/janie.martins.1
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janainasmalves)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/janie.martins.1)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janainasmalves@gmail.com)  
 
 🚀 Vamos construir algo incrível juntos!
 
